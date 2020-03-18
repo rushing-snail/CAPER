@@ -10,8 +10,8 @@ If you like our paper, please cite
 @inproceedings{zhao2020caper,
   title={CAPER: Context-Aware Personalized Emoji Recommendation},
   author={Zhao, Guoshuai and Liu, Zhidan and Chao, Yulu and Qian, Xueming},
-  journal   = {{IEEE} Trans. Knowl. Data Eng.},
-  volume    = {32}，
+  journal={{IEEE} Trans. Knowl. Data Eng.},
+  volume={32}，
   pages={},
   year={2020}
 }
